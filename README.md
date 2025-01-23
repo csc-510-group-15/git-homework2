@@ -1,3 +1,11 @@
+Info\
+![Static Badge](https://img.shields.io/badge/language-python-red)
+![Static Badge](https://img.shields.io/badge/platform-windows-blue)
+![GitHub License](https://img.shields.io/github/license/csc-510-group-15/git-homework2)\
+GitHub Activity\
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/csc-510-group-15/git-homework2)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/csc-510-group-15/git-homework2)
+
 ## Introduction
 A code repository for learning to use git version control, GitHub Issues and best practices, and so on.
 
