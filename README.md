@@ -18,6 +18,10 @@ Created as part of homework 2 for CSC 510: Software Engineering.
 ## Image
 ![Project Screenshot](path/to/your/image.png)
 
+Hanqi Chen (hchen54):
+![hchen54 done1](hchen54_main_domplete.png)
+![hchen54 done2](hchen54_remote_domplete.png)
+
 ## Code Example
 ```
 # Stage all changes for commit
