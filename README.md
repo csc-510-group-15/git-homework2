@@ -15,8 +15,9 @@ Created as part of homework 2 for CSC 510: Software Engineering.
 - Hanqi Chen (hchen54) 
 - Krishna Pallavalli (kpallav)
 
-## Image
-![Project Screenshot](path/to/your/image.png)
+## Images (Adam Imbert)
+![Project Screenshot](git_tutorial_apimbert_1.png)
+![Project Screenshot](git_tutorial_apimbert_2.png)
 
 ## Code Example
 ```
