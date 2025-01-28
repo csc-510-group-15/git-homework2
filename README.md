@@ -22,6 +22,15 @@ Hanqi Chen (hchen54):
 ![hchen54 done1](hchen54_main_domplete.png)
 ![hchen54 done2](hchen54_remote_domplete.png)
 
+
+Krishna Pallavalli (kpallav):
+
+<img width="438" alt="Screen Shot 2025-01-27 at 7 25 25 PM" src="https://github.com/user-attachments/assets/c045d31d-6676-4fc6-a034-c9ec378ca648" />
+<img width="894" alt="Screen Shot 2025-01-27 at 7 55 25 PM" src="https://github.com/user-attachments/assets/361aab14-8b43-4f37-9c15-9ba169c4cd92" />
+
+
+
+
 ## Code Example
 ```
 # Stage all changes for commit
