@@ -18,6 +18,16 @@ Created as part of homework 2 for CSC 510: Software Engineering.
 ## Image
 ![Project Screenshot](path/to/your/image.png)
 
+
+Krishna Pallavalli (kpallav):
+
+![kpallav done1](kpallav_main_complete.png)
+![kpallav done2](kpallav_remote_complete.png)
+
+
+
+
+
 ## Code Example
 ```
 # Stage all changes for commit
