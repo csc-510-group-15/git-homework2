@@ -16,7 +16,7 @@ Created as part of homework 2 for CSC 510: Software Engineering.
 - Krishna Pallavalli (kpallav)
 
 ## Image
-![Project Screenshot](path/to/your/image.png)
+<!-- ![Project Screenshot](path/to/your/image.png) -->
 
 Hanqi Chen (hchen54):
  <img src="https://github.com/csc-510-group-15/git-homework2/blob/hchen54/hchen54_main_domplete.png" width="400"/>
