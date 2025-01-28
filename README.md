@@ -16,9 +16,6 @@ Created as part of homework 2 for CSC 510: Software Engineering.
 - Krishna Pallavalli (kpallav)
 
 ## Image
-![Project Screenshot](path/to/your/image.png)
-
-
 Krishna Pallavalli (kpallav):
 
 ![kpallav done1](kpallav_main_complete.png)
