@@ -39,8 +39,10 @@ git push origin YOUR_BRANCH
 ```
 
 ## ✅ Task List
-- [ ] Task 1: Complete Git Tutorial
-- [ ] Task 2: Add Screenshots to `README.md`
-- [ ] Task 3: Modify `.html` File
-- [ ] Task 4: Merge Latest Changes
-- [ ] Task 5: Review Pull Requests
+- [x] Task 1: Complete Git Tutorial
+- [x] Task 2: Add Screenshots to `README.md`
+- [x] Task 3: Modify `.html` File
+- [x] Task 4: Merge Latest Changes
+- [x] Task 5: Review Pull Requests
+
+[html page](https://csc-510-group-15.github.io/git-homework2/)
