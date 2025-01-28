@@ -14,7 +14,7 @@ Created as part of homework 2 for CSC 510: Software Engineering.
 - Adam Imbert (apimbert)
 - Hanqi Chen (hchen54) 
 - Krishna Pallavalli (kpallav)
-
+[**Team HTML page**](https://csc-510-group-15.github.io/git-homework2/)
 ## Image
 Krishna Pallavalli (kpallav):
 
