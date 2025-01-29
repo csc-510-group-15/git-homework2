@@ -16,14 +16,18 @@ Created as part of homework 2 for CSC 510: Software Engineering.
 - Krishna Pallavalli (kpallav)
 [**Team HTML page**](https://csc-510-group-15.github.io/git-homework2/)
 ## Image
+
+<!-- ![Project Screenshot](path/to/your/image.png) -->
+
 Krishna Pallavalli (kpallav):
 
 ![kpallav done1](kpallav_main_complete.png)
 ![kpallav done2](kpallav_remote_complete.png)
 
+Hanqi Chen (hchen54):
 
-
-
+![hchen54 done1](hchen54_main_domplete.png)
+![hchen54 done2](hchen54_remote_domplete.png)
 
 ## Code Example
 ```
@@ -40,8 +44,10 @@ git push origin YOUR_BRANCH
 ```
 
 ## ✅ Task List
-- [ ] Task 1: Complete Git Tutorial
-- [ ] Task 2: Add Screenshots to `README.md`
-- [ ] Task 3: Modify `.html` File
-- [ ] Task 4: Merge Latest Changes
-- [ ] Task 5: Review Pull Requests
+- [x] Task 1: Complete Git Tutorial
+- [x] Task 2: Add Screenshots to `README.md`
+- [x] Task 3: Modify `.html` File
+- [x] Task 4: Merge Latest Changes
+- [x] Task 5: Review Pull Requests
+
+[html page](https://csc-510-group-15.github.io/git-homework2/)
