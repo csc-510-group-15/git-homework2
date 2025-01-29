@@ -14,10 +14,9 @@ Created as part of homework 2 for CSC 510: Software Engineering.
 - Adam Imbert (apimbert)
 - Hanqi Chen (hchen54) 
 - Krishna Pallavalli (kpallav)
+
 [**Team HTML page**](https://csc-510-group-15.github.io/git-homework2/)
 ## Image
-
-<!-- ![Project Screenshot](path/to/your/image.png) -->
 
 Krishna Pallavalli (kpallav):
 
@@ -28,6 +27,10 @@ Hanqi Chen (hchen54):
 
 ![hchen54 done1](hchen54_main_domplete.png)
 ![hchen54 done2](hchen54_remote_domplete.png)
+
+Adam Imbert (apimbert):
+![apimbert done1](git_tutorial_apimbert_1.png)
+![apimbert done2](git_tutorial_apimbert_2.png)
 
 ## Code Example
 ```
